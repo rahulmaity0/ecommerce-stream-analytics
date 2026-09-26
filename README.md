@@ -1,5 +1,7 @@
 # E-Commerce Stream Analytics Pipeline
 
+[![CI](https://github.com/rahulmaity0/ecommerce-stream-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulmaity0/ecommerce-stream-analytics/actions/workflows/ci.yml)
+
 This project is a resume-friendly real-time analytics pipeline built with Spring Boot, Kafka, PostgreSQL, and Metabase.
 
 ## What it does
