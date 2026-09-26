@@ -115,5 +115,3 @@ Use these tables and views:
 - PostgreSQL stores structured analytics data and Metabase sits on top for reporting.
 - Duplicate events are prevented here with `order_id` as the primary key.
 - On AWS, Kafka could move to MSK, PostgreSQL to RDS, and services to ECS or EC2.
-
-For a faster study version, use [INTERVIEW_GUIDE.md](./INTERVIEW_GUIDE.md).
